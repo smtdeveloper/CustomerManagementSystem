@@ -3,7 +3,10 @@
 
 <h2> Customer Management System - müşteri yönetim sistemi / Mernis ile TC Doğrulama </h2>
 
-<h4> SMTcoder </h4>
+<h4> SMTcoder  <center>  Projeye yıldız Vermeyi Unutmayın  🚀 Teşekkürler! ❤️ </center> </h4> 
+
+
+
 
 MERNİS ( Kimlik Doğrulama Servisi ) Projeye Ekleme
 Üst menüden, "File - New - Project"
@@ -87,6 +90,5 @@ Google Play uygulamalarım
 Projeye yıldız Vermeyi Unutmayın  🚀
 Teşekkürler! ❤️
 
-![01](https://user-images.githubusercontent.com/74311713/112488054-48bab480-8d8e-11eb-9f1e-e41efb912cc5.jpeg)
 
 
