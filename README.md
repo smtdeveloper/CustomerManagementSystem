@@ -3,9 +3,9 @@
 
 <h2> Customer Management System - müşteri yönetim sistemi / Mernis ile TC Doğrulama </h2>
 
-<h4> SMTcoder  <center>  Projeye yıldız Vermeyi Unutmayın  🚀 Teşekkürler! ❤️ </center> </h4> 
+<h4> SMTcoder :   Projeye yıldız Vermeyi Unutmayın  🚀 Teşekkürler! ❤️  </h4> 
 
-
+<br>
 
 
 MERNİS ( Kimlik Doğrulama Servisi ) Projeye Ekleme
