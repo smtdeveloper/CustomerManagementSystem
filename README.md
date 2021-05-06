@@ -1,8 +1,8 @@
 # CustomerManagementSystem
 
-<h2> SMTcoder </h2>
+<h2> Customer Management System - müşteri yönetim sistemi / Mernis ile TC Doğrulama </h2>
 
-Customer Management System - müşteri yönetim sistemi / Mernis ile TC Doğrulama
+<h4> SMTcoder </h4>
 
 MERNİS ( Kimlik Doğrulama Servisi ) Projeye Ekleme
 Üst menüden, "File - New - Project"
