@@ -7,6 +7,8 @@ Customer Management System - müşteri yönetim sistemi / Mernis ile TC Doğrula
 MERNİS ( Kimlik Doğrulama Servisi ) Projeye Ekleme
 Üst menüden, "File - New - Project"
 
+![1](https://user-images.githubusercontent.com/74311713/117274321-a0f0d600-ae65-11eb-857e-b1397cf27b6f.png)
+
 
 Wizards: kısmında "Java Project" yazıp, alt taraftan "Java Project" yazanı seçip "Next" butonuna basıyoruz.
 
